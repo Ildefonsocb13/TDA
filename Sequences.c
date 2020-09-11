@@ -66,6 +66,7 @@ long long int Sequences_rfibo(long long int n)
  *      buff  (long double buff):
  *          2 dimension variable for keeping values of time
 */
+/*
 void Fibonacci_s(int rango, long double buff[][0])
 {
   double Time = 0.0;
@@ -78,7 +79,7 @@ void Fibonacci_s(int rango, long double buff[][0])
     buff[i][0]=(long double) Time;
   }
 }
-
+*/
 /**
  * Adds values of time in the variable "buff" from the fibonacci Recursive
  * @param
@@ -87,6 +88,7 @@ void Fibonacci_s(int rango, long double buff[][0])
  *      buff  (long double buff):
  *          2 dimension variable for keeping values of time
 */
+/*
 void Fibonacci_r(int o, long double buff[][1])
 {
   double Time = 0.0;
@@ -99,3 +101,4 @@ void Fibonacci_r(int o, long double buff[][1])
     buff[n][1]= (long double)Time;
   }
 }
+*/
